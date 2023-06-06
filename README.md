@@ -1,5 +1,7 @@
 # ProyectoDAW
 
+It's necessary to run 'npm install' to install dependencies from package.json
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
 ## Development server
